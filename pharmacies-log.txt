@@ -1,0 +1,53 @@
+
+Logging "Australian National University"
+Data for University Pharmacy inserted.
+Data for Develin's City Chemist inserted.
+Data for The Pharmacy on Northbourne  inserted.
+Data for The Pharmacy on Petrie  inserted.
+Data for Priceline Pharmacy Canberra Centre inserted.
+Data for Beyond Pharmacy inserted.
+Data for Capital Chemist - O'Connor inserted.
+Data for Yarralumla Pharmacy inserted.
+Data for Capital Chemist - Lyneham inserted.
+Data for TerryWhite Chemmart Compounding Ainslie inserted.
+Data for Campbell Pharmacy inserted.
+Data for Deakin Pharmacy inserted.
+Data for Capital Chemist - Dickson inserted.
+Data for Cincotta Discount Chemist Dickson inserted.
+Data for Capital Chemist - Kingston inserted.
+Data for Epic Pharmacy John James inserted.
+Data for The Pharmacy on Franklin - Manuka inserted.
+Data for Optimal Pharmacy Plus Jamison inserted.
+Data for Your Discount Chemist - Griffith inserted.
+Data for Kaleen Max Value Chemist inserted.
+Data for Capital Chemist - Curtin inserted.
+Data for Capital Chemist - University of Canberra inserted.
+Data for Watson Pharmacy inserted.
+Data for Capital Chemist - Hughes inserted.
+Data for Macquarie Discount Pharmacy inserted.
+Data for Chemist Warehouse Belconnen Markets inserted.
+Data for Narrabundah Pharmacy inserted.
+Data for Red Hill Pharmacy ACT inserted.
+Data for Red Hill Pharmacy ACT inserted.
+Data for Capital Chemist - Garran inserted.
+Data for Belconnen Discount Pharmacy inserted.
+Data for Amcal Pharmacy Belconnen inserted.
+Data for Guardian Pharmacy Belconnen inserted.
+Data for Fyshwick Pharmacy inserted.
+Data for Canberra Hospital - Canberra Region Cancer Centre inserted.
+Data for Chemist Warehouse - Majura Park inserted.
+Data for Kaleen Plaza Pharmacy inserted.
+Data for Canberra Hospital - Pharmacy Department inserted.
+Data for Ginninderra After Hour Pharmacy Belconnen inserted.
+Data for PharmaSave Woden Compounding Pharmacy inserted.
+Data for Priceline Pharmacy Woden inserted.
+Data for Chemist Warehouse - Woden inserted.
+Data for Mitchell Discount Pharmacy inserted.
+Data for Hawker Pharmacy inserted.
+Data for Colbee Court Late Night Chemist inserted.
+Data for Capital Chemist Coombs inserted.
+Data for Chemist Warehouse - Fyshwick inserted.
+Data for Florey Pharmacy inserted.
+Data for Terry White Chemmart - Garran inserted.
+Data for Cooleman Court Pharmacy inserted.
+Logging "Barton"
